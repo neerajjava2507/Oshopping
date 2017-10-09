@@ -8,7 +8,7 @@
 </head>
 <body>
 
-$ {greeting}
+${greeting}
 
 </body>
 </html>
